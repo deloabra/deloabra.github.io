@@ -46,3 +46,9 @@ footer{
     height: 5%;
     width: 100%;
 }
+
+.port-pic{
+    width: 80%;
+    height: 20%;
+    margin-bottom: 10px;
+}
